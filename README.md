@@ -11,20 +11,20 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-# Install Dependencies
+## Install Dependencies
 
-For the Frontend (React)
-cd desc
-npm install
-npm install react-router-dom
-npm install react-icons
-npm run dev
+####For the Frontend (React)
+-cd desc
+-npm install
+-npm install react-router-dom
+-npm install react-icons
+-npm run dev
 
 
-For the Backend (Node.js + Express)
-cd desc
-npm install express cors body-parser node-fetch
-node server.js
+###For the Backend (Node.js + Express)
+-cd desc
+-npm install express cors body-parser node-fetch
+-node server.js
 
 
 
