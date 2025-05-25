@@ -13,18 +13,26 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Install Dependencies
 
-####For the Frontend (React)
--cd desc
--npm install
--npm install react-router-dom
--npm install react-icons
--npm run dev
+For the Frontend (React)
+
+- cd desc
+
+- npm install
+
+- npm install react-router-dom
+
+- npm install react-icons
+
+- npm run dev
 
 
-###For the Backend (Node.js + Express)
--cd desc
--npm install express cors body-parser node-fetch
--node server.js
+For the Backend (Node.js + Express)
+
+- cd desc
+
+- npm install express cors body-parser node-fetch
+
+- node server.js
 
 
 
